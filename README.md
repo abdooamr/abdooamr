@@ -27,7 +27,7 @@ Hey there! I'm Abdelrahman, a passionate mobile developer specializing in Flutte
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdooamr&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
