@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Amr<br>=======================================================================================================================================<br><br>Flutter Mobile Developer<br>------------------------<br><br>Hey there! I'm Abdelrahman, a passionate mobile developer specializing in Flutter. I've dedicated myself to crafting seamless and engaging mobile experiences for the past 2 years. I thrive on the challenges that coding brings, constantly evolving and learning to deliver top-notch applications. Flutter has been my primary playground, where I've honed my skills in creating user-friendly and efficient apps.<br><br>* 🌍  I'm based in Egypt<br>* ✉️  You can contact me at [abdooamr25@gmail.com](mailto:abdooamr25@gmail.com)<br>* 🚀  I'm currently working on [AceDeck](http://play.google.com/store/apps/details?id=com.aceDeck.android)<br>* 🧠  I'm learning Exploring a new framework to further expand my development horizons 🌐<br>* 🤝  I'm open to collaborating on Fascinating and innovative projects 🌟
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Amr
+=======================================================================================================================================
+
+Flutter Mobile Developer
+------------------------
+
+Hey there! I'm Abdelrahman, a passionate mobile developer specializing in Flutter. I've dedicated myself to crafting seamless and engaging mobile experiences for the past 2 years. I thrive on the challenges that coding brings, constantly evolving and learning to deliver top-notch applications. Flutter has been my primary playground, where I've honed my skills in creating user-friendly and efficient apps.
+
+* 🌍  I'm based in Egypt
+* ✉️  You can contact me at [abdooamr25@gmail.com](mailto:abdooamr25@gmail.com)
+* 🚀  I'm currently working on [AceDeck](http://play.google.com/store/apps/details?id=com.aceDeck.android)
+* 🧠  I'm learning Exploring a new framework to further expand my development horizons 🌐
+* 🤝  I'm open to collaborating on Fascinating and innovative projects 🌟
 
 
 ## 🌐 Socials:
@@ -17,9 +29,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdooamr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdooamr&icon=6&color=6)](https://visitcount.itsvg.in)
