@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Amr
 =======================================================================================================================================
 
-Flutter Mobile Developer
+Mobile App Developer
 ------------------------
 
 Hey there! I'm Abdelrahman, a passionate mobile developer specializing in Flutter. I've dedicated myself to crafting seamless and engaging mobile experiences for the past 2 years. I thrive on the challenges that coding brings, constantly evolving and learning to deliver top-notch applications. Flutter has been my primary playground, where I've honed my skills in creating user-friendly and efficient apps.
